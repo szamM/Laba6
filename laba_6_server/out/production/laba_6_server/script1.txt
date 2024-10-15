@@ -1,0 +1,18 @@
+add
+MineFlat
+220
+4123
+340403
+1234
+12345
+5342
+NORMAL
+MineHouse
+2005
+3241
+523452
+show
+count_greater_than_view STREET
+filter_less_than_living_space 555
+clear
+show
